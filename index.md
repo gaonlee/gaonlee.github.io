@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## 이민경 이력서
 
-You can use the [editor on GitHub](https://github.com/gaonlee/gaonlee.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요. 반갑습니다.
+이화여자대학교 환경공학과 16학번 이민경입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 소속
+이화여자대학교 환경공학과
 
 ### Markdown
 
